@@ -1,22 +1,18 @@
-# Gurvinder Singh Gill — Interactive Portfolio
+# Gurvinder Singh Gill — Portfolio
 
-A small, self-contained driving portfolio inspired by playful 3D portfolio sites. Explore the illustrated park, drive to career markers, and open résumé details at each stop.
+A lightweight, easy-to-scan portfolio for Gurvinder Singh Gill. The home page presents experience, skills, education, and contact details directly. The original interactive driving experience remains available through **Explore the park**.
 
-## Run locally
+## Pages
 
-Open `index.html` in a current browser, or serve this folder with any static web server. It is ready for GitHub Pages and needs no build step, framework, or third-party asset downloads.
+- `index.html` — main portfolio, with direct section navigation and résumé download.
+- `park.html` — optional illustrated driving portfolio. Use the **← Portfolio** button to return.
+- `resume_2023.pdf` — original printable résumé.
 
-## Controls
+Open `index.html` in a browser or serve this folder with any static web server. The site is ready for GitHub Pages. It needs no build step, framework, or external assets.
 
-- Drive with **W/A/S/D** or the **arrow keys**. Forward accelerates, left/right steer, and reverse slows the car.
-- Press **E** or select **Explore nearby** when beside a marker.
-- Use **Map** or press **M** to jump to a stop. **Menu** lists every résumé section.
-- On touch screens, use the on-screen arrow pad.
-- Toggle the quiet engine tone with the sound button; click it again to mute.
-- Download the original PDF from the About, Contact, or Menu panel.
+## Park controls
 
-## Implementation
-
-The page uses native HTML, CSS, Canvas 2D, and a small inline JavaScript game loop. The scene, car, roads, buildings, map, responsive controls, and résumé panels are drawn or rendered locally. There are no runtime dependencies or external network requests.
-
-The original `resume_2023.pdf` is included as a printable résumé.
+- Drive with **W/A/S/D**, arrow keys, or the on-screen touch controls.
+- Press **E** or select **Explore nearby** at a marker.
+- Use **Map** or press **M** to jump to a stop; **Menu** lists all sections.
+- Toggle the quiet engine tone with the sound button.
