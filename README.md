@@ -4,9 +4,9 @@ A lightweight, easy-to-scan portfolio for Gurvinder Gill. The home page presents
 
 ## Pages
 
-- `index.html` — main portfolio, with direct section navigation and résumé download.
+- `index.html` — main portfolio, with direct section navigation and resume download.
 - `park.html` — optional illustrated driving portfolio. Use the **← Portfolio** button to return.
-- `gurvinder-resume-2026-1.pdf` — latest printable résumé.
+- `gurvinder-resume-2026-1.pdf` — latest printable resume.
 
 Open `index.html` in a browser or serve this folder with any static web server. The site is ready for GitHub Pages. It needs no build step, framework, or external assets.
 
