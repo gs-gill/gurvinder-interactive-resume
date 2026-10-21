@@ -1,6 +1,6 @@
 # Gurvinder Gill — Portfolio
 
-A lightweight, easy-to-scan portfolio for Gurvinder Gill. The home page presents experience, skills, education, and contact details directly. The original interactive driving experience remains available through **Explore the park**.
+A straightforward portfolio for Gurvinder Gill. The home page presents his work, technical skills, education, and contact details. The optional driving page remains available through **Visit the interactive park**.
 
 ## Pages
 
